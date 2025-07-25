@@ -1,0 +1,8 @@
+browser-cookie3
+pandas
+matplotlib
+seaborn
+plotly
+cryptography
+pycryptodome
+jinja2
