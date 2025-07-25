@@ -16,6 +16,7 @@ A Python-based tool to extract, analyze, and visualize browser cookies for priva
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Licence
 
